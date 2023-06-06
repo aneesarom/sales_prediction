@@ -1,0 +1,56 @@
+[ 2023-05-23 15:55:55,938 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-23 15:55:55,948 ] 186 werkzeug - INFO -  * Debugger PIN: 318-336-025
+[ 2023-05-23 15:55:55,968 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:55:55] "GET / HTTP/1.1" 200 -
+[ 2023-05-23 15:56:02,993 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:56:03,568 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:56:03] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:56:07,695 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:56:07,737 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:56:07] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:56:14,716 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:56:14,755 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:56:14] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:56:21,964 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:56:22,018 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:56:22] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:56:31,933 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:56:31,975 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:56:31] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:56:39,127 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:56:39,217 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:56:39] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:56:47,381 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:56:47,432 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:56:47] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:56:53,233 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:56:53,291 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:56:53] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:57:01,697 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:57:01,805 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:57:01] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:57:07,584 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:57:07,645 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:57:07] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:57:14,435 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:57:14,620 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:57:14] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:57:20,237 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:57:20,308 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:57:20] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:57:26,281 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:57:26,328 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:57:26] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:57:31,130 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:57:31,183 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:57:31] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:57:37,147 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:57:37,200 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:57:37] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:58:32,176 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:58:32,379 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:58:32] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:58:41,365 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:58:41,409 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:58:41] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:58:48,549 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:58:48,620 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:58:48] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:58:53,891 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:58:53,933 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:58:53] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:58:58,307 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:58:58,349 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:58:58] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:59:05,295 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:59:05,335 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:59:05] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 15:59:10,977 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 15:59:11,014 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:59:11] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 16:00:38,409 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 16:00:38] "GET / HTTP/1.1" 200 -
+[ 2023-05-23 16:00:50,161 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 16:00:50,416 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 16:00:50] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 16:00:59,581 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 16:00:59,630 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 16:00:59] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 16:01:06,618 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 16:01:06,676 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 16:01:06] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-23 16:02:06,477 ] 69 root - INFO - Dataframe Gathered
+[ 2023-05-23 16:02:06,612 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 16:02:06] "POST /predict HTTP/1.1" 200 -

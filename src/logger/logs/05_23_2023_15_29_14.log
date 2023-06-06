@@ -1,0 +1,5 @@
+[ 2023-05-23 15:29:15,309 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-23 15:29:15,316 ] 186 werkzeug - INFO -  * Debugger PIN: 318-336-025
+[ 2023-05-23 15:29:24,161 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:29:24] "GET / HTTP/1.1" 200 -
+[ 2023-05-23 15:29:24,531 ] 186 werkzeug - INFO - 127.0.0.1 - - [23/May/2023 15:29:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-23 15:29:44,745 ] 186 werkzeug - INFO -  * Detected change in '/Users/aneesaro/PycharmProjects/Ineuron projects/BlackFridaySalePrediction/app.py', reloading

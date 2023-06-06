@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+flask
+lightgbm
+xgboost
+category_encoders
+catboost
+-e .

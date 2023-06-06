@@ -1,0 +1,9 @@
+[ 2023-06-07 01:51:09,696 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-07 01:51:09,704 ] 186 werkzeug - INFO -  * Debugger PIN: 155-751-371
+[ 2023-06-07 01:51:10,283 ] 47 root - INFO - Dataframe Gathered
+[ 2023-06-07 01:51:10,410 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 01:51:10] "POST /predict HTTP/1.1" 200 -
+[ 2023-06-07 01:51:29,231 ] 47 root - INFO - Dataframe Gathered
+[ 2023-06-07 01:51:29,256 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 01:51:29] "POST /predict HTTP/1.1" 200 -
+[ 2023-06-07 01:51:44,184 ] 47 root - INFO - Dataframe Gathered
+[ 2023-06-07 01:51:44,209 ] 186 werkzeug - INFO - 127.0.0.1 - - [07/Jun/2023 01:51:44] "POST /predict HTTP/1.1" 200 -
+[ 2023-06-07 01:53:19,507 ] 186 werkzeug - INFO -  * Detected change in '/Users/aneesaro/PycharmProjects/Ineuron projects/advertising_dataset/app.py', reloading

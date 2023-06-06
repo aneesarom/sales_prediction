@@ -1,0 +1,6 @@
+venv
+Advertising_media.egg-info
+dist
+build
+.idea
+.DS_Store
